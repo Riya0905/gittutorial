@@ -6,6 +6,7 @@
 3. [VSCodeIDE](https://code.visualstudio.com/)
 4. [GitCLI]
 
+--a bit changes:
 Create a new environment
 ```conda create -p venv python==3.7 -y```
 
