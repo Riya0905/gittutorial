@@ -29,3 +29,4 @@ Push all the files to github
 3. [VSCodeIDE](https://code.visualstudio.com/)
 4. [GitCLI]
 >>>>>>> 9d79108a5fc121078479f6d28e8aed0e05aafa3f
+Author: Riya
